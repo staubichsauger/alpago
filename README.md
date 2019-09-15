@@ -9,6 +9,7 @@ It is written in pure Go and only uses Go's standard library.
 - Install and setup [Go](https://golang.org/dl/) if you haven't yet. That's all folks.
 
 ## Playing
+Change into internal/monolith then:
 Either run
 `go build main.go`
 and then execute resulting binary or just run
